@@ -3,6 +3,14 @@
     to {transform:rotate(360deg);}
 }
 
+
+.title{
+    margin: 240px 0 180px;
+    font-size: 98px;
+    line-height: 1.15em;
+    font-weight: 600;
+}
+
 .section-subtitle, .section-title{
     max-width: 60%;
     display: flex;
@@ -11,11 +19,11 @@
 
 .link{
     text-decoration: none;
-    transition: .4s  linear ease;
+    transition: all .4s ease-out;
 }
 
-.link:hover{
-    font-weight: 700;
+.link span:hover {
+    opacity: .6;
 }
 
 .section-title{

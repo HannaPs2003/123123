@@ -12,16 +12,10 @@
     line-height: 23px;
 }
 
-.oakley{
-    padding-top: 160px;
-    background-color: #F2F2F2;
-}
-
-.description{
-    padding-top: 100px;
-}
-
-.description__text samp{
+.tow-column__text span{
     font-weight: 700;
 }
+
+
+
 

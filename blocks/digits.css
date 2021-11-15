@@ -7,9 +7,9 @@
     max-width: 1200px;
     margin: 60px auto 100px;
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
-    grid-column-gap: 30px;
+    grid-template-columns: repeat(auto-fit, 250px);
     grid-row-gap: 80px;
+    justify-content: space-between;
 }
 
 .digits__subtitle{

@@ -1,0 +1,19 @@
+.techniques{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.techniques__cards{
+    max-width: 920px;
+    grid-template-columns: repeat(auto-fit, 240px);
+    text-align: center;
+    letter-spacing: -.04em;
+    justify-content: space-between;
+}
+
+.cards-item__image{
+    width: 160px;
+    display: block;
+    margin: 60px auto 43px;
+    border-radius: 50%;
+}

@@ -10,17 +10,13 @@
 @import "feynman.css";
 @import "digits.css";
 @import "footer.css";
+@import "oakley.css";
+@import "description.css";
+@import "containers.css";
 
 
 body{
     margin: 0;
     font-family: 'Open Sans', sans-serif;
     font-weight: 500;
-}
-
-.content-container{
-    width: 100%;
-    max-width: 1980px;
-    margin: 0 auto;
-    position: relative;
 }

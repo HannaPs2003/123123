@@ -22,13 +22,6 @@
     z-index: 4;
 }
 
-.header__title{
-    margin: 240px 0 180px;
-    font-size: 98px;
-    line-height: 1.15em;
-    font-weight: 600;
-}
-
 .header__text{
     padding-bottom: 40px;
     max-width: 460px;
