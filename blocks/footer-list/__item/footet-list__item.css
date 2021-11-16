@@ -1,0 +1,10 @@
+.footer-list__item{
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    opacity: .6;
+}
+
+.footer-list__item:hover{
+    opacity: 1;
+}

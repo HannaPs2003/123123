@@ -1,0 +1,12 @@
+.feynman__container{
+    display: grid;
+    grid-template-columns: 1fr 550px 1fr;
+}
+
+@media (max-width: 992px) {
+    .feynman__container {
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: 2fr 3fr;
+    }
+}

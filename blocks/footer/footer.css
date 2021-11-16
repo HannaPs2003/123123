@@ -1,0 +1,10 @@
+@import "__title/footer__wrapper.css";
+@import "__wrapper/footer__wrapper.css";
+@import "__logo/footer_logo.css";
+
+.footer{
+    margin: 0;
+    padding: 60px 60px 40px;
+    color: #F2F2F2;
+    background-color: #1F1F1F;
+}

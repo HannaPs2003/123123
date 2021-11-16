@@ -1,0 +1,14 @@
+.video__item{
+    margin-left: 20px;
+    list-style-type: none;
+}
+
+.video__item:first-child{
+    margin-left: 0;
+}
+
+@media (max-width: 1200px){
+    .video__item{
+        margin-left: 0;
+    }
+}

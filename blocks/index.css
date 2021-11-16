@@ -1,19 +1,22 @@
-@import "header.css";
-@import "section.css";
-@import "cards.css";
-@import "techniques.css";
-@import "video.css";
-@import "tow-column.css";
-@import "khan.css";
-@import "kaufmam.css";
-@import "resources.css";
-@import "feynman.css";
-@import "digits.css";
-@import "footer.css";
-@import "oakley.css";
-@import "description.css";
-@import "containers.css";
-
+@import "header/header.css";
+@import "section/section.css";
+@import "cards/cards.css";
+@import "techniques/techniques.css";
+@import "video/video.css";
+@import "tow-column/tow-column.css";
+@import "khan/khan.css";
+@import "kaufman/kaufman.css";
+@import "resources/resources.css";
+@import "feynman/feynman.css";
+@import "digits/digits.css";
+@import "footer/footer.css";
+@import "footer-list/footer-list.css";
+@import "oakley/oakley.css";
+@import "description/description.css";
+@import "content-container/content-container.css";
+@import "title/title.css";
+@import "link/link.css";
+@import "rotation/rotation.css";
 
 body{
     margin: 0;
