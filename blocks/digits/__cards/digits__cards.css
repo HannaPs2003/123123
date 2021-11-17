@@ -1,6 +1,6 @@
 .digits__cards{
     max-width: 1200px;
-    margin: 60px auto 100px;
+    margin: 60px auto 0;
     display: grid;
     grid-template-columns: repeat(auto-fit, 250px);
     grid-row-gap: 80px;

@@ -2,5 +2,10 @@
     text-decoration: none;
     color: #F2F2F2;
     font-size: 18px;
-    line-height: 23px
+    line-height: 23px;
+    opacity: .6;
+}
+
+.footer-list__link:hover{
+    opacity: 1;
 }

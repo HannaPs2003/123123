@@ -1,7 +1,7 @@
 @import "__cards/digits__cards.css";
 @import "__subtitle/digits__subtitle.css";
+@import "__container/digits__container.css";
 
 .digits{
-    width: 90%;
-    margin: 0 auto;
+    padding: 100px 0;
 }

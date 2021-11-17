@@ -17,6 +17,7 @@
 @import "title/title.css";
 @import "link/link.css";
 @import "rotation/rotation.css";
+@import "logo/logo.css";
 
 body{
     margin: 0;
