@@ -1,0 +1,9 @@
+@import "__text/section__text.css";
+@import "__title/section__title.css";
+@import "__subtitle/section__subtitle.css";
+
+.section__subtitle, .section__title{
+    max-width: 60%;
+    display: flex;
+    justify-content: center;
+}

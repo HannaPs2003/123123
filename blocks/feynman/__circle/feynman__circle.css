@@ -1,0 +1,14 @@
+.feynman__circle{
+    width: 700px;
+    position: absolute;
+    bottom: -340px;
+    left: 30px;
+    z-index: 2;
+}
+
+
+@media (max-width: 992px) {
+    .feynman__circle {
+        bottom: 60px;
+    }
+}

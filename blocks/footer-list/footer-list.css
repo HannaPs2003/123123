@@ -1,0 +1,8 @@
+@import "__item/footet-list__item.css";
+@import "__link/footer-list__link.css";
+@import "__icon/footer-list__icon.css";
+
+.footer-list{
+    margin-left: 0;
+    padding-left: 0;
+}

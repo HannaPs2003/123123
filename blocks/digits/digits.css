@@ -1,0 +1,7 @@
+@import "__cards/digits__cards.css";
+@import "__subtitle/digits__subtitle.css";
+@import "__container/digits__container.css";
+
+.digits{
+    padding: 100px 0;
+}
