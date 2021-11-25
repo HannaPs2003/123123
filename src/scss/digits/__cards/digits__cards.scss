@@ -1,0 +1,15 @@
+.digits__cards{
+    max-width: 1200px;
+    margin: 60px auto 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 250px);
+    grid-row-gap: 80px;
+    justify-content: space-between;
+}
+
+@media (max-width: 992px){
+    .digits__cards{
+        grid-template-columns: 30% 30% 30%;
+        grid-column-gap: 3%;
+    }
+}

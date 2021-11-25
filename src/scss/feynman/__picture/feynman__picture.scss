@@ -1,0 +1,13 @@
+.feynman__picture{
+    width: 480px;
+    position: absolute;
+    bottom: -400px;
+    left: 0;
+    z-index: 3;
+}
+
+@media (max-width: 1200px){
+    .feynman__picture{
+        display: none;
+    }
+}

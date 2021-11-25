@@ -1,0 +1,10 @@
+@import "__title/cards__title.css";
+@import "__image/cards__image.css";
+@import "__item/cards__item.css";
+@import "__text/cards__text.css";
+
+.cards{
+    margin: 0 auto;
+    padding: 0;
+    display: grid;
+}

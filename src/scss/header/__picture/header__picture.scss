@@ -1,0 +1,13 @@
+.header__picture{
+    width: 700px;
+    position: absolute;
+    z-index: 3;
+    right: 0;
+    bottom: 0;
+}
+
+@media (max-width: 1200px) {
+    .header__picture {
+        display: none;
+    }
+}

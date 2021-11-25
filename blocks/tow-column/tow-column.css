@@ -1,0 +1,10 @@
+@import "__title/tow-column__title.css";
+@import "__text/tow-column__text.css";
+
+.tow-column{
+    margin: 0 auto;
+    width: 80%;
+    display: grid;
+    grid-template-columns: 15% 75%;
+    grid-column-gap: 10%;
+}

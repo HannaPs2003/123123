@@ -1,0 +1,7 @@
+@import "__logo/resources__logo.css";
+@import "__logo-zone/resources__logo-zone.css";
+@import "__container/resources__container.css";
+
+.resources{
+    padding: 100px 0 120px;
+}

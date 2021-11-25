@@ -1,0 +1,17 @@
+@import "__title/footer__title.css";
+@import "__wrapper-logo/footer__wrapper-logo.css";
+@import "__wrapper-links/footer__wrapper-liks.css";
+@import "__logo/footer_logo.css";
+@import "__content/footer__content.css";
+
+.footer{
+    margin: 0;
+    padding: 60px 60px 40px;
+    color: #F2F2F2;
+    background-color: #1F1F1F;
+}
+
+.footer__wrapper-logo, .footer__wrapper-links{
+    width: 50%;
+    display: flex;
+}

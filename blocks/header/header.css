@@ -1,0 +1,15 @@
+@import "__logo/header__logo.css";
+@import "__wrapper/header__wrapper.css";
+@import "__text/header__text.css";
+@import "__picture/header__picture.css";
+@import "__container/header__container.css";
+@import "__animate/header__anemate.css";
+@import "__title/header__title.css";
+
+.header{
+    overflow:hidden;
+    padding: 40px 0 0 60px ;
+    background-color: #F2F2F2 ;
+    position: relative;
+    z-index: 1;
+}

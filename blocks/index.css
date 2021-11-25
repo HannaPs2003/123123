@@ -1,0 +1,26 @@
+@import "header/header.css";
+@import "section/section.css";
+@import "cards/cards.css";
+@import "techniques/techniques.css";
+@import "video/video.css";
+@import "tow-column/tow-column.css";
+@import "khan/khan.css";
+@import "kaufman/kaufman.css";
+@import "resources/resources.css";
+@import "feynman/feynman.css";
+@import "digits/digits.css";
+@import "footer/footer.css";
+@import "footer-list/footer-list.css";
+@import "oakley/oakley.css";
+@import "description/description.css";
+@import "content-container/content-container.css";
+@import "title/title.css";
+@import "link/link.css";
+@import "rotation/rotation.css";
+@import "logo/logo.css";
+
+body{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+}

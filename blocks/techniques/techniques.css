@@ -1,0 +1,6 @@
+@import "__cards/techiqes__cards.css";
+@import "__container/techniques__container.css";
+
+.techniques{
+   padding: 100px 0;
+}

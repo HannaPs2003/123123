@@ -1,0 +1,12 @@
+.feynman__wrapper{
+    grid-column: 2;
+    text-align: center;
+    position: relative;
+    z-index: 4;
+}
+
+@media (max-width: 992px) {
+    .feynman__wrapper {
+        grid-column: 1;
+    }
+}

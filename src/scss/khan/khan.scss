@@ -1,0 +1,21 @@
+@import "__container/khan__container";
+@import "__title/khan__title";
+@import "__author/khan__author";
+@import "__book-container/khan__book-container";
+@import "__book-pic/khan__book-pic";
+@import "__book-wrapper/khan__book-wrapper";
+@import "__buy-link/khan__buy-link";
+@import "__quote/khan__quote";
+@import "__quote-author/khan__quote-author";
+@import "__quote-author-subline/khan__quote-author-subline";
+
+.khan{
+    padding-top: 105px;
+    background-color: #F2F2F2;
+}
+
+.khan__quote-author, .khan__quote-author-subline{
+    font-size: 24px;
+    line-height: 1.15em;
+}
+

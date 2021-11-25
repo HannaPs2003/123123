@@ -1,0 +1,7 @@
+.techniques__cards{
+    max-width: 920px;
+    grid-template-columns: repeat(auto-fit, 240px);
+    text-align: center;
+    letter-spacing: -.04em;
+    justify-content: space-between;
+}
