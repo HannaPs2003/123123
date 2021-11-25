@@ -1,0 +1,12 @@
+@import "__wrapper/kaufman__wrapper";
+@import "__cards/kaufman__cards";
+@import "__triangle/kaufman__triangle";
+
+.kaufman{
+    overflow:hidden;
+    padding: 90px 0 ;
+    position: relative;
+    z-index: 1;
+    color: #F2F2F2;
+    background-color: #1F1F1F;
+}

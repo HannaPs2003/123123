@@ -1,0 +1,15 @@
+@import "__logo/header__logo";
+@import "__wrapper/header__wrapper";
+@import "__text/header__text";
+@import "__picture/header__picture";
+@import "__container/header__container";
+@import "__animate/header__anemate";
+@import "__title/header__title";
+
+.header{
+    overflow:hidden;
+    padding: 40px 0 0 60px ;
+    background-color: #F2F2F2 ;
+    position: relative;
+    z-index: 1;
+}

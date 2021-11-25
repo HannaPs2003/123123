@@ -1,0 +1,10 @@
+.header__animate{
+    width: 600px;
+    height: 600px;
+    position: absolute;
+    z-index: 2;
+    top: 0;
+    right: 0;
+    background: #2F80ED;
+    animation: rotation 20s linear 0s infinite;
+}
